@@ -4,7 +4,6 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/michael-norwood-2a25a0278/
 
